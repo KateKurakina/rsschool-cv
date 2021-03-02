@@ -3,6 +3,7 @@
 ## Contact Info
 **Number Phone:** +79875766642  
 **VK:** [KateKurakina](https://vk.com/idkatekurakina)
+**Discord:** KateKurakina#1028
 
 ## Summary
 I really want to improve my skills to become a real specialist.
