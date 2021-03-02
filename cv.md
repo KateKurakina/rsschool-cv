@@ -21,7 +21,7 @@ Unfortunately, right now I don't have code examples, but I really hope that they
 I don't have too much experience only university program.
 
 ## Education
-I study at [MIREA](https://www.mirea.ru/) University in the field of software engineering.
+I study at [RTU MIREA](https://www.mirea.ru/) University in the field of software engineering.
 
 ## English
 > Intermediate  
