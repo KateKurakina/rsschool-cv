@@ -33,10 +33,18 @@ a:hover {
 }
 
 a:active {
-    color: #497DDD;
+    color: #526118;
     border-bottom: 1px dashed;
 }
 
 ul {
     list-style-position: inside;
+    list-style-type: square;
+}
+.footer-bg {
+    background: #F5F5F5;
+}
+footer {
+
+    text-align: center;
 }
