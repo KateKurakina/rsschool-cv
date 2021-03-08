@@ -1,35 +1,42 @@
 header {
-  width: 100%;
-  max-width: 1024px;
+    width: 100%;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
-  margin-bottom: 10px; 
+    margin-bottom: 10px;
+    text-align: center;
 }
-  
+
 h2 {
-  margin-bottom: 15px; 
+    margin-bottom: 15px;
+    text-align: center;
 }
-  
-article, 
+
+article,
 nav {
-  margin-bottom: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+
 }
-   
+
 .photo {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 a:hover {
-  color: #154088; 
-  border-bottom: .07em solid;
+    color: #154088;
+    border-bottom: .07em solid;
 }
 
 a:active {
-  color: #497DDD; 
-  border-bottom: 1px dashed;
+    color: #497DDD;
+    border-bottom: 1px dashed;
 }
 
 ul {
-  padding-left: 20px; 
+    list-style-position: inside;
 }
