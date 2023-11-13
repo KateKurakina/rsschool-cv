@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<header>
+    <h1>Ekaterina Kurakina</h1>
+    <figure class="photo">
+        <img src="./photo.png" alt="My photo" width="150" height="150">
+    </figure>
+</header>
+
+<main>
+    <div class="row">
+        <article class="contact">
+        <h2 id="contact" >Contact</h2>
+        <nav>
+            <ul>
+                <li><span class="list"></span><strong>Number Phone: </strong>+79875766642</li>
+                <li><span class="list"></span><strong>VK:</strong> <a href="https://vk.com/idkatekurakina">KateKurakina</a></li>
+            </ul>
+        </nav>
+         </article>
+
+    <article class="summary">
+        <h2 id="summary">Summary</h2>
+        <p>I really want to improve my skills to become a real specialist. Passionate about Web development: JavaScript, HTML, CSS, excited to learn about new technologies.</p>
+    </article>
+    </div>
+
+    <div class="row">
+    <article class="skills">
+        <h2 id="skills">Skills</h2>
+
+        <nav>
+            <p>At university I studied:</p>
+            <ul>
+                <li><span class="list"></span>C++</li>
+                <li><span class="list"></span>C#</li>
+                <li><span class="list"></span>Java</li>
+                <li><span class="list"></span>Python</li>
+            </ul>
+        </nav>
+    </article>
+
+    <article class="code-examples">
+        <h2 id="code-examples">Code examples</h2>
+        <p>module.exports = function reverse (n) {<br>
+            n = Math.abs(n);<br>
+            let rev = 0;<br>
+            let dig = 0;<br>
+            while (n !== 0)<br>
+            {<br>
+            dig = n % 10;<br>
+            rev = rev * 10 + dig;<br>
+            n = Math.floor(n / 10);<br>
+            }<br>
+            return rev;<br>
+            }
+        </p>
+    </article>
+    </div>
+
+    <div class="row">
+    <article class="experience">
+        <h2 id="experience">Experience</h2>
+        <p>I don’t have too much experience only university program.</p>
+    </article>
+
+    <article class="education">
+        <h2 id="education">Education</h2>
+        <p>I am a software engineering student from the <a href="https://www.mirea.ru/">MIREA</a> University.</p>
+    </article>
+
+    <article class="english">
+        <h2 id="english">English</h2>
+
+        <nav>
+            <ul>
+                <li><span class="list"></span>intermediate</li>
+            </ul>
+        </nav>
+
+        <p>I studied for some time in courses and went to tutors.</p>
+    </article>
+    </div>
+</main>
+
+<footer>
+    <div class="footer-bg">
+        <p><a href="https://github.com/KateKurakina/rsschool-cv">GitHub</a> , 2023.</p>
+    </div>
+</footer>
+</body>
+</html>
