@@ -43,3 +43,8 @@ I don't have too much experience only university program.
 
 ## Education
 I study at [MIREA](https://www.mirea.ru/) University in the field of software engineering.
+
+## English Language
+> Intermediate 
+ 
+I studied for some time in courses and went to tutors.
