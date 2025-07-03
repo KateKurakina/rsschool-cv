@@ -36,7 +36,13 @@ let stack = [];
 ```
 
 ## Experience
-I don't have too much experience only university program.
+**Cryptocurrency converter**
+
+*A single-page application for converting between cryptocurrencies and fiat currencies using real-time exchange rates.*
+
+Technologies: HTML, CSS, JavaScript
+
+[Demo](https://katekurakina.github.io/cryptocurrency-converter/#/)
 
 ## Education
 [**MIREA**](https://www.mirea.ru/) **– Russian Technological University**
